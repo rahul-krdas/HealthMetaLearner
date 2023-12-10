@@ -1,0 +1,20 @@
+# .gitignore file for HealthMetaLearner
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+logs/
+temp/
+
+# Ignore any local configuration files
+.env
+.env.local
+# Ignore JetBrains IDE settings
+.idea/
